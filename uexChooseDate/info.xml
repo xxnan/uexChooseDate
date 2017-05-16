@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uexplugins>
+    <plugin
+        uexName="uexChooseDate" version="1.0.0" build="1">
+        <build>0:android仿ios时间日期选择功能插件</build>
+    </plugin>
+</uexplugins>
